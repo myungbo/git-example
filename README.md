@@ -1,15 +1,15 @@
 # python爬蟲/地圖繪製
 
 ### cama_map.ipynb
-* Cama店面資料爬蟲
+* Cama店面資料爬蟲、清洗
 * Cama店面地圖繪製
 
 ### Louisa_map.ipynb
-* Louisa店面資料爬蟲
+* Louisa店面資料爬蟲、清洗
 * Louisa店面地圖繪製
 
 ### Starbucks_map.ipynb
-* Starbucks店面資料爬蟲
+* Starbucks店面資料爬蟲、清洗
 * Starbucks店面地圖繪製
 
 ### coffee_store_map.ipynb
