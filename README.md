@@ -19,3 +19,7 @@
 ### maps.nlsc.gov.tw_code.ipynb
 * 內政部國土測繪中心資料爬蟲
 * 包括學校、醫院、嫌惡設施以及公司行號
+
+# Kaggle Titanic: Machine Learning from Disaster
+### Titanic.ipynb
+* Titanic資料清洗、分析、機器學習code
